@@ -2,8 +2,7 @@
 
 https://digitalinnovation.one
 
-Tive a honra de fazer parceria com o pessoal da [Digital Innovation One](https://digitalinnovation.one), com dois módulos 
-de Java Básico: 
+Curso da DIO voltado para 2 temas de Java Básico: 
 - Orientação a Objetos com Java; e 
 - Trabalhando com Datas. 
 
